@@ -5100,7 +5100,7 @@
 		(uuid "8bffc70f-ab34-488e-9ea7-b5eb634bbbff")
 	)
 	(label "USB_D-"
-		(at 158.75 59.69 180)
+		(at 158.75 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5130,7 +5130,7 @@
 		(uuid "99e224b8-1ca1-4a08-bf9b-d6699f960626")
 	)
 	(label "USB_D+"
-		(at 158.75 62.23 180)
+		(at 158.75 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6096,8 +6096,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
-			(at 66.04 149.86 90)
+		(property "Value" "10k"
+			(at 66.04 150.368 90)
 			(effects
 				(font
 					(size 1.27 1.27)
